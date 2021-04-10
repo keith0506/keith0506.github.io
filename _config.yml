@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   No one can understand the idea of kittens
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://keith0506.github.io"
-header-img: img/kitten.jpg
 
 markdown: kramdown
 kramdown:
@@ -33,17 +32,16 @@ kramdown:
 # Build settings
 theme: minima
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-redirect-from
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+# sidebar: true                           # whether or not using Sidebar.
 
 # Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
+# featured-tags: true                     # whether or not using Feature-Tags
 #featured-condition-size: 3              # A tag will be featured if the size of it is more than this condition value
 
 # SNS settings
-RSS: false
 github_username: keith0506
