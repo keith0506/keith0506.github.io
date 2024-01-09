@@ -32,7 +32,7 @@ categories: learning
 	* 新项目启动：根据项目的需求和目标，选择最适合的团队类型来启动项目。
 	* 团队重组：在业务方向变化或技术演进时，重新评估并选择最合适的团队类型。
 
-![OrgAndScale](img/OrgAndScale.png)
+![OrgAndScale]([img/OrgAndScale.png](https://github.com/keith0506/keith0506.github.io/blob/d08b740476319a8db1eef192a2e1db2dc1b7ddf6/img/OrgAndScale.png))
 
 ### 有效沟通
 建立有效的沟通渠道和文化，确保团队成员之间的信息流畅传递。
