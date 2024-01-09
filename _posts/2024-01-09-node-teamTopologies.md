@@ -134,7 +134,7 @@ categories: learning
 
 ## 摘抄整理-四类基本团队拓扑
 
-![FourTeamTypeThreePattern](FourTeamTypeThreePattern.png)
+![FourTeamTypeThreePattern.png](https://github.com/keith0506/keith0506.github.io/blob/03de617141916d833c9464f283317ef7bb713e83/img/FourTeamTypeThreePattern.png)
 
 
 ### **流动式团队（Stream-aligned team）**
